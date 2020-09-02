@@ -4,3 +4,5 @@ git hub lab
 IBM project
 creating new repository"#demo" 
 I started editing to see the results.
+#Display the output
+print("newPython file")
